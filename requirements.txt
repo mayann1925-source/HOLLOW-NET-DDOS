@@ -1,0 +1,13 @@
+aiohttp==3.9.5
+aiohttp-socks==0.8.4
+async-timeout==4.0.3
+attrs==23.2.0
+certifi==2024.2.2
+charset-normalizer==3.3.2
+frozenlist==1.4.1
+idna==3.7
+multidict==6.0.5
+python-socks==2.4.4
+PySocks==1.7.1
+typing_extensions==4.11.0
+yarl==1.9.4
